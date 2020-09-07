@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GetCustomerDetailResponse xmlns="http://soap.webservice.com" 
+	xsi:schemaLocation="http://soap.webservice.com customer-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<CustomerDetail>
+		<id>123</id>
+		<name>Diego</name>
+		<phone>999999999</phone>
+		<email>diego@gmail.com.br</email>
+	</CustomerDetail>
+
+</GetCustomerDetailResponse>

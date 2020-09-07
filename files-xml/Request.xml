@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GetCustomerDetailRequest xmlns="http://soap.webservice.com" 
+	xsi:schemaLocation="http://soap.webservice.com customer-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>123</id>
+</GetCustomerDetailRequest>
